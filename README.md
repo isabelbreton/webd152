@@ -3,3 +3,4 @@
 <li><a href="chapter2/pacific/index.html">Chapter 2</a></li>
 <li><a href="chapter3/yoga/index.html">Chapter 3</a></li>
 <li><a href="chapter4/ch4pacific/index.html">Chapter 4</a></li>
+<li><a href="chapter5/ch5pacific/index.html">Chapter 5</a></li>
