@@ -11,4 +11,4 @@
 <li><a href="chapter10/ch10pacific/index.html">Chapter 10</a></li>
 <li><a href="chapter11/ch11pacific/index.html">Chapter 11</a></li>
 <li><a href="chapter12/ch12pacific/index.html">Chapter 12</a></li>
-<li><a href="flexbox/index.html">Flex Box Extra Credit</a></li>
+<li><a href="flexbox/flexbox/index.html">Flex Box Extra Credit</a></li>
