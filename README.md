@@ -12,3 +12,4 @@
 <li><a href="chapter11/ch11pacific/index.html">Chapter 11</a></li>
 <li><a href="chapter12/ch12pacific/index.html">Chapter 12</a></li>
 <li><a href="flexbox/index.html">Flex Box Extra Credit</a></li>
+<li><a href="final/finalpacific/index.html">Final</a></li>
