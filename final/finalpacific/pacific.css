@@ -219,6 +219,13 @@ text-align: center;
 width: 100%;
 }
 
+.aboutgrid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 20px;
+}
+
+
 
 
 @media (max-width: 600px) {
@@ -278,6 +285,7 @@ width: 100%;
     border-bottom: 2px solid #1b69b2; /* bb2-solid-#1b69b2 */
   }
 }
+
 
 @media (min-width: 600px) {
   nav ul {
